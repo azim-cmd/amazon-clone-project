@@ -23,3 +23,7 @@ export function addToCart(productName){
       });
     }
 }
+
+function removeFromCart(){
+  
+}
